@@ -1,0 +1,5 @@
+Aniket	10	21	6.5
+Vishnu	59	20	7.2
+Ayush	19	19	8.4
+Twinkle	52	19	9.6
+varkha	54	19	9.2

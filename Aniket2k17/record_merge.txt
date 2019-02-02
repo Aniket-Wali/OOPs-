@@ -1,0 +1,14 @@
+Aniket	CSE	2k17	6
+Ashok	20/2/2016
+Ayush	CSE	2k17	7
+Ramesh	12/4/2017
+Vishnu	CSE	2k17	8
+Akshat	8/5/2017
+Twinkle	CSE	2k17	9
+Tanmay	4/4/2016
+Varkha	CSE	2k17	10
+Yogesh	15/8/2018
+Varkha	CSE	2k17	10
+Charu	13/04/2016
+Varkha	CSE	2k17	10
+Charu	13/04/2016

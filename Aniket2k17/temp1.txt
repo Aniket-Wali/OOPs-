@@ -1,0 +1,5 @@
+Aniket 	CSE	2k17	6
+Ayush	CSE	2k17	7
+Vishnu	CSE	2k17	8
+Twinkle	CSE	2k17	9
+Varkha	CSE	2k17	10	
